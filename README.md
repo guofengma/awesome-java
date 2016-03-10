@@ -264,7 +264,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Hazelcast](http://hazelcast.org/) - Highly scalable in-memory datagrid.
 * [Hystrix](https://github.com/Netflix/Hystrix) - Provides latency and fault tolerance.
 * [JGroups](http://www.jgroups.org/) - Toolkit for reliable messaging and creating clusters.
-* [Orbit](http://orbit.bioware.com/) - Virtual Actors, adding another level of abstraction to traditional actors.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 
 ## Distributed Databases
